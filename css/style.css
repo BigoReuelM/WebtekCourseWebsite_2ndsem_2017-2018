@@ -32,6 +32,15 @@ a{
 body{
     font-family: arvo; font-size: 110%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
 }
+
+/*yehahahha*/
+
+.header{
+	position: fixed;
+	background-color: white;
+	width: 100%
+}
+
 /* you can put your code all in one line like above */
 #page{ margin: 20px; }
 
