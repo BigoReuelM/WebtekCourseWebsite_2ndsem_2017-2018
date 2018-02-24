@@ -193,3 +193,28 @@ header {
   margin-top: -100px;
   position: relative;
 }
+
+/*table of attributes */
+
+#attributes {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#attributes td, #attributes th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#attributes tr:nth-child(even){background-color: #fef2f2;}
+
+#attributes tr:hover {background-color: #ddd;}
+
+#attributes th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: skyblue;
+    color: black;
+}
