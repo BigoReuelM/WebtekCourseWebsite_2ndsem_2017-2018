@@ -218,3 +218,50 @@ header {
     background-color: #D3D3D3;
     color: black;
 }
+
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+
+  #page{
+    height: 20%;
+  }
+
+  #nav{
+   list-style-type: none;
+   margin: 0 auto;
+   padding:0;
+   overflow: hidden;
+   display: inline-block;
+  }
+
+  #content{
+    font-size: 1rem;
+    margin-bottom: 1%;
+  }
+
+}
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+
+  #page{
+   height: 20%;
+  }
+    #nav{
+   list-style-type: none;
+   margin: 0 auto;
+   padding:0;
+   overflow: hidden;
+   display: inline-block;
+  }
+
+  #content{
+    font-size: 1.5rem;
+  }
+}
+
