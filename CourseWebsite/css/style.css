@@ -1807,8 +1807,31 @@ li.active {
 		height:20px;
 		font-size:14px;
 	}
-
-
 }
+
+
+#attributes {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#attributes td, #attributes th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#attributes tr:nth-child(even){background-color:white;}
+
+#attributes tr:hover {background-color: #D3D3D3;}
+
+#attributes th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #D3D3D3;
+    color: black;
+}
+
 
  
