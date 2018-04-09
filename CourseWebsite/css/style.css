@@ -85,8 +85,8 @@ header .navbar {
     padding: 0 0 0 15px;
 }
 .navbar-default .navbar-brand{
-color: #D81265;
-background: rgb(245, 138, 46);
+color: #428bcaa8;
+background: #428bcaa8;
 height: 114px;
 position: absolute;
 top: -28px;
@@ -276,10 +276,10 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #F58220;
+color: #155ca3;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-color: #F58220;
+color: #155ca3;
 background-color: transparent;
 }
 
