@@ -1,8 +1,0 @@
-https://en.wikipedia.org/wiki/History_of_the_Internet
-https://en.wikipedia.org/wiki/Internet
-https://en.wikipedia.org/wiki/Tim_Berners-Lee
-https://www.w3.org/People/Berners-Lee/
-https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
-http://www.restapitutorial.com/httpstatuscodes.html
-https://blog.rackspace.com/internet-history-html-evolution
-http://www.yourhtmlsource.com/starthere/historyofhtml.html
